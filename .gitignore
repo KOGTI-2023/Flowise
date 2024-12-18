@@ -104,3 +104,6 @@
 ## S/MIME message
 *.smime
 *.vsix
+docker/full-exit_flowise-docker.bat
+docker/start_flowise-docker+autoBrowser.bat
+docker/stop_flowise-docker.bat
